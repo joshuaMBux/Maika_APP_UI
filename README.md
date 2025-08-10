@@ -340,5 +340,5 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 <div align="center">
   <p>⭐ Si este proyecto te ayuda, ¡dale una estrella en GitHub!</p>
-  <p>📧 Contacto: [tu-email@ejemplo.com]</p>
+  <p>📧 Contacto: [por only]</p>
 </div>
